@@ -1,0 +1,9 @@
+{
+    "name": "anubhav/testfolder",
+    "description": "testing just for library",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "minimum-stability": "stable"
+}
