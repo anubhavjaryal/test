@@ -1,5 +1,5 @@
 <?php
-namespace App\An;
+namespace An;
 class Anubhav{
     const version = '1';
     public static function test(){
