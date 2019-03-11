@@ -4,5 +4,8 @@
     "type": "library",
     "require": {
         "php": "^7.1"
-    }
+    },
+    "autoload": {
+        "psr-0": {"Anubhav": "App/An"}
+    },
 }
