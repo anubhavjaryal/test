@@ -6,6 +6,6 @@
         "php": "^7.1"
     },
     "autoload": {
-        "psr-0": {"Anubhav": "An/"}
+        "psr-0": {"An": "An/"}
     }
 }
